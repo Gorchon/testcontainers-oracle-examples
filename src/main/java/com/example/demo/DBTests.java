@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringSightTestContainersDumbApplication {
+public class DBTests {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringSightTestContainersDumbApplication.class, args);
+		SpringApplication.run(DBTests.class, args);
 	}
 
 }
